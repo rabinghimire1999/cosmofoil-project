@@ -13,7 +13,7 @@ Befor running the project , download the data files from the above link.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/cosmofoil-project.git
+    git clone https://github.com/rabinghimire1999/cosmofoil-project.git
     cd cosmofoil-project
     ```
 
