@@ -2,6 +2,7 @@
 
 This project is a Text to SQL application that uses a database from Kaggle.
 Database link : (https://www.kaggle.com/datasets/usdot/flight-delays/data)
+
 Follow the steps below to set up and run the project.
 
 Befor running the project , download the data files from the above link.
