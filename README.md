@@ -58,7 +58,7 @@ The UI is built with **FASTAPI** and **HTMLX**.
 
 - ![Screenshot 1](images/image-1.png)
 - ![Screenshot 2](images/image-2.png)
-- ![Screenshot 2](images/image-2.png)
+- ![Screenshot 2](images/image-3.png)
 
 ## Acknowledgements
 
